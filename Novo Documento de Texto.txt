@@ -1,1 +1,10 @@
 C:\Users\rgyunogu\AppData\Local\Programs\Git\mingw64\etc
+
+git rename origin gitlab
+
+Caio Moyses de Lima 10259 cmlima
+Elisa Emiko Tanaka Delli Paoli 7764 eemiko
+Giulia Yuriko Tanaka 7865 gtanaka
+João Batista de Santa Rosa 6946 jorosa
+Luiz Guilherme Martins 4357 lgmartin
+Sakae Takinami 5495 stakinam
