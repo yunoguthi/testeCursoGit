@@ -11,15 +11,6 @@ Sakae Takinami 5495 stakinam
 
 
 testando testando
-
-123
-456
-789
-123asdfasdfasdfasdadsfasdfadsfadsfadsfasdfasfasdfasdasdfsadsfasdfasdfasdfasdfasdfadsfasdadsfasdfadsfasfdfadsfadfafd
-asdf
-asdfasd
-asdf
-asdfas
-asdfadfadf
-adfafasdf
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+testea
+adfafdf
+aaaaaaaaaa
