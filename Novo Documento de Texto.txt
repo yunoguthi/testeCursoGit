@@ -11,7 +11,6 @@ Sakae Takinami 5495 stakinam
 
 
 testando testando
-<<<<<<< HEAD
 
 123
 456
@@ -23,7 +22,3 @@ asdf
 asdfas
 asdfadfadf
 adfafasdf
-=======
-testea
-adfafdf
->>>>>>> branch
